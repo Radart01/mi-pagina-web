@@ -83,7 +83,7 @@ body{
 
 #myVideo2 {
     position: fixed;
-    zoom: 0.7;
+    zoom: 1;
     right: 20px;
     z-index: 10;
     bottom: 20px;
