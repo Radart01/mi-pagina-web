@@ -1,0 +1,92 @@
+body{
+    background-image: url(Flor.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    
+}
+
+
+#myVideo {
+    position: right;
+    zoom: 0.2;
+    right: 10;
+    bottom: 10;
+    min-width: 10%;
+    min-height: 10%;
+}
+
+.titulo {
+    color: rgba(255, 0, 0, 0.699);
+    text-align: left;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    margin-top: 20px;
+}
+.texto {
+    position: center;
+    top: 50%;
+    left: 50%;
+    color: rgb(188, 233, 24);
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+}
+
+.subtitulo {
+    color: rgb(161, 105, 0);
+    text-align: left;
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+    margin-top: 20px;
+}
+
+.xd {
+    color: rgb(0, 0, 0);
+    text-align: left;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+}
+
+.ez {
+    color: rgb(0, 238, 139);
+    text-align: left;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+}
+
+.mu {
+    color: rgb(176, 6, 255);
+    text-align: left;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+}
+
+.zi {
+    color: rgb(179, 255, 0);
+    text-align: left;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+}
+
+.titulo2 {
+    color: rgb(255, 0, 0);
+    text-align: left;
+    font-size: 50px;
+    font-family: 'Lucida Console', Monaco, monospace;
+    margin-top: 20px;
+}
+
+#myVideo2 {
+    position: fixed;
+    zoom: 0.7;
+    right: 20px;
+    z-index: 10;
+    bottom: 20px;
+    width: 300px;
+    height: auto;
+}
